@@ -1,4 +1,3 @@
-# from ConfigParser import SafeConfigParser
 import configparser
 import mysql.connector
 
